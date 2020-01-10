@@ -12,6 +12,7 @@ In order to follow this tutorial, you will need a github account already setup. 
 You must have Ruby and Gem installed. I think those are all packaged when you install ruby, but you can easily double check by running the following in your terminal:
 
 `ruby --version`
+
 `gem --version`
 
 If a verison number prints for those 2 commands, you are good to start.
@@ -109,6 +110,6 @@ After your code has been pushed, give github pages a couple of seconds to build 
 
 TADA!
 
-Congrats, you hosted your first Jekyll blog on github pages! Be sure to read up on the documentation for Jekyll and the Minima theme so you can start customizing your pages and styles.
+Congrats, you hosted your first Jekyll blog on github pages! You may need to clear your cache if you don't see your changes. Be sure to read up on the documentation for Jekyll and the Minima theme so you can start customizing your pages and styles.
 
 Until next time, happy coding!
